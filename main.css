@@ -90,3 +90,14 @@ body {
 			margin-bottom: 10px;
 			color: white;
 		}
+		section#content h3 {
+			font: 125% Arial, Helectiva, sans-serif;
+			color: blue;
+		}
+		section#content ul li {
+			font: 100% Arial, Helectiva, sans-serif;
+			color: white;
+		}
+		section#content h2 {
+			color: blue;
+		}
