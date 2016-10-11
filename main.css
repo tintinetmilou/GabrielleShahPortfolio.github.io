@@ -101,3 +101,13 @@ body {
 		section#content h2 {
 			color: blue;
 		}
+		aside#hobbies h2 {
+			color: blue;
+		}
+		section#content h1 {
+			font: 175% Arial, Helectiva, sans-serif;
+		}
+		aside#hobbies h1 {
+			font: 175% Arial, Helectiva, sans-serif;
+		}
+		
