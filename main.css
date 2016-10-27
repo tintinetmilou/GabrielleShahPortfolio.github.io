@@ -1,11 +1,12 @@
 @charset "utf-8";
 
 body {
-			background: black;
-			font: 100% Georgia, TImes, serif;
+			background: url(images/stars.jpg) repeat;
+			background-position: relative;
+			font: 100% Georgia, Times, serif;
 		}
 		h1 {
-			font: 300% Arial, Helctiva, sans-serif;
+			font: 300% Arial, Helectiva, sans-serif;
 			color: gold;
 		}
 		h2 {
